@@ -289,3 +289,4 @@ dist
 
 # Ignore VSCode settings
 .vscode/*
+.vscode/settings.json
