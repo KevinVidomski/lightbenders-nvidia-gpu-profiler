@@ -40,15 +40,14 @@ try {
     $nodeVersion = node -v
 }
 catch {
-    Write-Host "Node.js is not installed. Please install Node.js and try again."
-    exit
+    Write-Host "Node.js is not installed."
 }
 
 try {
     $npmVersion = npm -v
 }
 catch {
-    Write-Host "npm is not installed. Please install npm and try again."
+    Write-Host "npm is not installed."
     exit
 }
 
@@ -61,7 +60,6 @@ try {
 }
 catch {
     Write-Host "Failed to retrieve the latest LTS version of Node.js."
-    exit
 }
 
 get_yes_or_no
