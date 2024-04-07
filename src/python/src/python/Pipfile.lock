@@ -1,0 +1,30 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "043165424dc11b810be306db8874c630ab330dd25c31e040432c589a0917b78b"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.12.2",
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "nvidia-ml-py": {
+            "hashes": [
+                "sha256:91d808d3f246d30bead2a0a2540b74b9e9fc584a9c3f1f55abfc2940c4e44fd2",
+                "sha256:b1559af0d57dd20955bf58d05afff7b166ddd44947eb3051c9905638799eb1dc"
+            ],
+            "index": "pypi",
+            "version": "==12.535.133"
+        }
+    },
+    "develop": {}
+}

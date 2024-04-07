@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-nvidia-ml-py = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.2"
