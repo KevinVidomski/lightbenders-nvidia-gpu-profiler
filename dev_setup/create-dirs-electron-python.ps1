@@ -1,0 +1,9 @@
+New-Item -ItemType Directory -Path .\nvidia-benchmark
+New-Item -ItemType Directory -Path .\nvidia-benchmark\src
+New-Item -ItemType Directory -Path .\nvidia-benchmark\src\python
+New-Item -ItemType File -Path .\nvidia-benchmark\package.json
+New-Item -ItemType File -Path .\nvidia-benchmark\README.md
+New-Item -ItemType File -Path .\nvidia-benchmark\src\main.js
+New-Item -ItemType File -Path .\nvidia-benchmark\src\index.html
+New-Item -ItemType File -Path .\nvidia-benchmark\src\python\nvidia_info.py
+New-Item -ItemType File -Path .\nvidia-benchmark\.gitignore
