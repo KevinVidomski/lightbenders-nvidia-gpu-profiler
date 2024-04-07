@@ -1,18 +1,1 @@
-{
-  "folders": [
-    {
-      "path": "."
-    }
-  ],
-  "settings": {
-    "folder-color.pathColors": [
-      {
-        "folderPath": "f:\\Users\\kevinv\\Documents\\PowerShell\\",
-        "color": "foldercolorizer.SkyBlue"
-      }
-    ],
-    "workbench.colorCustomizations": {
-      "tab.activeBorderTop": "#FA9E9E"
-    }
-  }
-}
+{}
